@@ -14,6 +14,5 @@ The goal of this repository is to build a strong foundation in NumPy before movi
 * Machine Learning
 * Scikit-learn
 
-=
 
 This repository will be updated as I continue learning NumPy.
